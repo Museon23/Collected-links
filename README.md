@@ -1,2 +1,2 @@
 # Collected-links
-https://linktr.ee/DFIRDetective
+[DFIR Detective](https://linktr.ee/DFIRDetective)
